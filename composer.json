@@ -1,0 +1,6 @@
+{
+    "name": "fusionexport",
+    "require": {
+        "fusioncharts/fusionexport": "^1.1"
+    }
+}
